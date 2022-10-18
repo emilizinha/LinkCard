@@ -1,5 +1,4 @@
 # LinkCard 👩🏼‍💻🔗
-
 > Status: Concluded ✅
 ## Technologies Used:
 <table>
